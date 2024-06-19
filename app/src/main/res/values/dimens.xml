@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <resources>
         <!-- Dimensions from 1px to 100px for mdpi (160 dpi) -->
         <dimen name="px_1">1dp</dimen>
         <dimen name="px_2">2dp</dimen>
@@ -102,5 +101,4 @@
         <dimen name="px_98">98dp</dimen>
         <dimen name="px_99">99dp</dimen>
         <dimen name="px_100">100dp</dimen>
-    </resources>
 </resources>
