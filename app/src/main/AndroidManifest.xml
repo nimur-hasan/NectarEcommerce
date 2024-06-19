@@ -13,7 +13,10 @@
         android:theme="@style/Theme.NectarEcommerce"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".pages.GetStartScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StartScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
